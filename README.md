@@ -74,6 +74,6 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 
-### i am learning jenkins
+### i am learning jenkins, yes
 
 
